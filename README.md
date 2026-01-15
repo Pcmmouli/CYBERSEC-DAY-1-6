@@ -1,6 +1,6 @@
 # CYBSEC-DAY-1
 Cybersec from scratch 
-# Cyber Security Internship – Task 1
+# Cyber Security – Task 1
 
 ## Task Title
 Understanding Cyber Security Basics & Attack Surface
