@@ -25,6 +25,3 @@ types of attackers, attack surfaces, and OWASP Top 10 vulnerabilities.
 - Web Browser 
 - OWASP Documentation
 - MITRE
-
-## Files
-- Task1_CyberSecurity_Basics.pdf
