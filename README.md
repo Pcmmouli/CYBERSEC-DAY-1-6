@@ -1,6 +1,5 @@
 # CYBSEC-DAY-1
 Cybersec from scratch 
-# Cyber Security – Task 1
 
 ## Task Title
 Understanding Cyber Security Basics & Attack Surface
@@ -25,3 +24,25 @@ types of attackers, attack surfaces, and OWASP Top 10 vulnerabilities.
 - Web Browser 
 - OWASP Documentation
 - MITRE
+
+
+
+#Day 2 – OS Security Fundamentals
+
+## Overview
+This task focuses on understanding operating system security concepts and applying basic OS hardening techniques.
+
+## Environment
+- Kali Linux, Windows
+- UFW Firewall
+
+## Activities Performed
+- Reviewed user accounts and privilege levels
+- Implemented file permission and ownership controls
+- Enabled and configured firewall rules
+- Analyzed running processes and system services
+- Disabled unnecessary services to minimize attack surface
+- Documented OS hardening best practices and security checklist
+
+## Key Takeaway
+Developed a foundational understanding of OS-level security, least privilege, and system hardening principles.
